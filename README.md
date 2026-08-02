@@ -15,4 +15,4 @@
 - **Data:** Pandas, NumPy, PostgreSQL
 
 ## 📬 Contact
-- **Email:** your-email@gmail.com
+- **Email:** seungmini1232@gmail.com
