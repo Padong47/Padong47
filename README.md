@@ -26,9 +26,9 @@
 <br>
 
 ## 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=padong47&show_icons=true&theme=dracula" alt="padong47's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padong47&layout=compact&theme=dracula" alt="Top Languages" height="150"/>
+![padong47's GitHub stats](https://github-readme-stats.vercel.app/api?username=padong47&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padong47&layout=compact&theme=dracula)
 </div>
 
 <br>
