@@ -3,6 +3,8 @@
 <!--
 **Padong47/Padong47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=padong47.padong47)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
