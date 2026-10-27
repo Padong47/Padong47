@@ -1,4 +1,4 @@
-# 🧑‍💻 안녕하세요! AI 엔지니어 [본인 이름]입니다.
+# 🧑‍💻 안녕하세요! AI 엔지니어 [류승민]입니다.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=padong47.padong47)
 
