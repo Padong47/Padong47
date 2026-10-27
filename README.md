@@ -42,5 +42,4 @@
 
 ## 📬 Contact
 - **Email:** rsb3748419@gmail.com
-- **fortpolio** https://rsm-portfolio-codex.vercel.app/
--               https://rsmportofoliostudio.vercel.app/
+- **fortpolio** https://rsm-portfolio-codex.vercel.app/ , https://rsmportofoliostudio.vercel.app/
